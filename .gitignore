@@ -1,0 +1,6 @@
+REPORT
+*.pkl
+*.csv
+.env
+env
+credentials.py

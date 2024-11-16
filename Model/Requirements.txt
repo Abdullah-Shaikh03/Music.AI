@@ -1,0 +1,8 @@
+streamlit
+spotipy
+jupyter
+pandas
+scikit-learn
+pickles
+python-dotenv
+flask
